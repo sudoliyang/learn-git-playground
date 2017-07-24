@@ -12,7 +12,7 @@ This a git practice place.
 ## Students 
 1. sudoliyang
 2.
-3.
+3. Shanny
 4. ZackFan0104
 5.
 6.
