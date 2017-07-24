@@ -16,7 +16,7 @@ This a git practice place.
 4. ZackFan0104
 5.
 6.
-7.
+7. SpicyBoyd
 8.
 9.
 10.
